@@ -1,0 +1,20 @@
+L 09/13/2025 - 01:13:17: SourceMod error session started
+L 09/13/2025 - 01:13:17: Info (map "glubtastic5_1") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20250913.log")
+L 09/13/2025 - 01:13:17: [SM] Exception reported: Missing translation file "l4d_ffannounce.phrases.txt"
+L 09/13/2025 - 01:13:17: [SM] Blaming: l4d_ffannounce.smx
+L 09/13/2025 - 01:13:17: [SM] Call stack trace:
+L 09/13/2025 - 01:13:17: [SM]   [0] SetFailState
+L 09/13/2025 - 01:13:17: [SM]   [1] Line 48, J:\Documents\GitHub\MoYu_Server_Stupid_Plugins\The Last Stand\l4d_ffannounce\l4d_ffannounce.sp::LoadPluginTranslations
+L 09/13/2025 - 01:13:17: [SM]   [2] Line 55, J:\Documents\GitHub\MoYu_Server_Stupid_Plugins\The Last Stand\l4d_ffannounce\l4d_ffannounce.sp::OnPluginStart
+L 09/13/2025 - 01:13:17: [SM] Unable to load plugin "l4d_ffannounce.smx": Error detected in plugin startup (see error logs)
+L 09/13/2025 - 01:26:50: Error log file session closed.
+L 09/13/2025 - 02:13:00: SourceMod error session started
+L 09/13/2025 - 02:13:00: Info (map "helms_deep_r23") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20250913.log")
+L 09/13/2025 - 02:13:00: [SM] Exception reported: Missing translation file "l4d_ffannounce.phrases.txt"
+L 09/13/2025 - 02:13:00: [SM] Blaming: l4d_ffannounce.smx
+L 09/13/2025 - 02:13:00: [SM] Call stack trace:
+L 09/13/2025 - 02:13:00: [SM]   [0] SetFailState
+L 09/13/2025 - 02:13:00: [SM]   [1] Line 48, J:\Documents\GitHub\MoYu_Server_Stupid_Plugins\The Last Stand\l4d_ffannounce\l4d_ffannounce.sp::LoadPluginTranslations
+L 09/13/2025 - 02:13:00: [SM]   [2] Line 55, J:\Documents\GitHub\MoYu_Server_Stupid_Plugins\The Last Stand\l4d_ffannounce\l4d_ffannounce.sp::OnPluginStart
+L 09/13/2025 - 02:13:00: [SM] Unable to load plugin "l4d_ffannounce.smx": Error detected in plugin startup (see error logs)
+L 09/13/2025 - 02:32:36: Error log file session closed.

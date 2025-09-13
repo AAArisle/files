@@ -1,0 +1,8 @@
+L 11/14/2023 - 00:01:47: SourceMod error session started
+L 11/14/2023 - 00:01:47: Info (map "c4m4_milltown_b") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231114.log")
+L 11/14/2023 - 00:01:47: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/14/2023 - 00:06:38: Error log file session closed.
+L 11/14/2023 - 00:06:38: SourceMod error session started
+L 11/14/2023 - 00:06:38: Info (map "c4m5_milltown_escape") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231114.log")
+L 11/14/2023 - 00:06:38: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/14/2023 - 00:15:24: Error log file session closed.

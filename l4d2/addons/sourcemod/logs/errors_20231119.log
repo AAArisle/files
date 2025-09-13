@@ -1,0 +1,5 @@
+L 11/19/2023 - 00:11:46: SourceMod error session started
+L 11/19/2023 - 00:11:46: Info (map "c2m5_concert") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231119.log")
+L 11/19/2023 - 00:11:46: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/19/2023 - 00:11:46: [SM] Failed to load plugin "survivor_chat_select.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/19/2023 - 00:27:24: Error log file session closed.

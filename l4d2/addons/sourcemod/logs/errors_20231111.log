@@ -1,0 +1,91 @@
+L 11/11/2023 - 19:14:29: SourceMod error session started
+L 11/11/2023 - 19:14:29: Info (map "c1m1_hotel") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231111.log")
+L 11/11/2023 - 19:14:29: [SM] Exception reported: Failed to find "CMoveableCamera::FollowTarget" signature.
+L 11/11/2023 - 19:14:29: [SM] Blaming: FollowTarget_Detour.smx
+L 11/11/2023 - 19:14:29: [SM] Call stack trace:
+L 11/11/2023 - 19:14:29: [SM]   [0] SetFailState
+L 11/11/2023 - 19:14:29: [SM]   [1] Line 61, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::SetupDetour
+L 11/11/2023 - 19:14:29: [SM]   [2] Line 44, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::OnPluginStart
+L 11/11/2023 - 19:14:29: [SM] Unable to load plugin "FollowTarget_Detour.smx": Error detected in plugin startup (see error logs)
+L 11/11/2023 - 19:14:31: [left4dhooks.smx] Failed to find signature: HasAnySurvivorLeftSafeArea
+L 11/11/2023 - 19:14:31: [left4dhooks.smx] Failed to find signature: IsTankInPlay
+L 11/11/2023 - 19:14:31: [left4dhooks.smx] Failed to find signature: GetFurthestSurvivorFlow
+L 11/11/2023 - 19:14:31: [left4dhooks.smx] Failed to find signature: GetScriptValueInt
+L 11/11/2023 - 19:14:31: [SM] Exception reported: Could not load the "CTerrorGameRules::IsRealismMode" gamedata signature.
+L 11/11/2023 - 19:14:31: [SM] Blaming: left4dhooks.smx
+L 11/11/2023 - 19:14:31: [SM] Call stack trace:
+L 11/11/2023 - 19:14:31: [SM]   [0] SetFailState
+L 11/11/2023 - 19:14:31: [SM]   [1] Line 3520, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::LoadGameData
+L 11/11/2023 - 19:14:31: [SM]   [2] Line 1446, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::OnPluginStart
+L 11/11/2023 - 19:14:31: [SM] Unable to load plugin "left4dhooks.smx": Error detected in plugin startup (see error logs)
+L 11/11/2023 - 19:14:31: [SM] Exception reported: Failed to load signature: CDirector::IsInTransition
+L 11/11/2023 - 19:14:31: [SM] Blaming: transitionzombiespawnfix.smx
+L 11/11/2023 - 19:14:31: [SM] Call stack trace:
+L 11/11/2023 - 19:14:31: [SM]   [0] SetFailState
+L 11/11/2023 - 19:14:31: [SM]   [1] Line 73, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vSetupDetours
+L 11/11/2023 - 19:14:31: [SM]   [2] Line 54, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vLoadGameData
+L 11/11/2023 - 19:14:31: [SM]   [3] Line 35, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::OnPluginStart
+L 11/11/2023 - 19:14:31: [SM] Unable to load plugin "transitionzombiespawnfix.smx": Error detected in plugin startup (see error logs)
+L 11/11/2023 - 19:16:16: Error log file session closed.
+L 11/11/2023 - 19:17:50: SourceMod error session started
+L 11/11/2023 - 19:17:50: Info (map "c1m1_hotel") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231111.log")
+L 11/11/2023 - 19:17:50: [SM] Exception reported: Failed to find "CMoveableCamera::FollowTarget" signature.
+L 11/11/2023 - 19:17:50: [SM] Blaming: FollowTarget_Detour.smx
+L 11/11/2023 - 19:17:50: [SM] Call stack trace:
+L 11/11/2023 - 19:17:50: [SM]   [0] SetFailState
+L 11/11/2023 - 19:17:50: [SM]   [1] Line 61, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::SetupDetour
+L 11/11/2023 - 19:17:50: [SM]   [2] Line 44, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::OnPluginStart
+L 11/11/2023 - 19:17:50: [SM] Unable to load plugin "FollowTarget_Detour.smx": Error detected in plugin startup (see error logs)
+L 11/11/2023 - 19:17:51: [left4dhooks.smx] Failed to find signature: HasAnySurvivorLeftSafeArea
+L 11/11/2023 - 19:17:51: [left4dhooks.smx] Failed to find signature: IsTankInPlay
+L 11/11/2023 - 19:17:51: [left4dhooks.smx] Failed to find signature: GetFurthestSurvivorFlow
+L 11/11/2023 - 19:17:51: [left4dhooks.smx] Failed to find signature: GetScriptValueInt
+L 11/11/2023 - 19:17:51: [SM] Exception reported: Could not load the "CTerrorGameRules::IsRealismMode" gamedata signature.
+L 11/11/2023 - 19:17:51: [SM] Blaming: left4dhooks.smx
+L 11/11/2023 - 19:17:51: [SM] Call stack trace:
+L 11/11/2023 - 19:17:51: [SM]   [0] SetFailState
+L 11/11/2023 - 19:17:51: [SM]   [1] Line 3520, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::LoadGameData
+L 11/11/2023 - 19:17:51: [SM]   [2] Line 1446, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::OnPluginStart
+L 11/11/2023 - 19:17:51: [SM] Unable to load plugin "left4dhooks.smx": Error detected in plugin startup (see error logs)
+L 11/11/2023 - 19:17:51: [SM] Exception reported: Failed to load signature: CDirector::IsInTransition
+L 11/11/2023 - 19:17:51: [SM] Blaming: transitionzombiespawnfix.smx
+L 11/11/2023 - 19:17:51: [SM] Call stack trace:
+L 11/11/2023 - 19:17:51: [SM]   [0] SetFailState
+L 11/11/2023 - 19:17:51: [SM]   [1] Line 73, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vSetupDetours
+L 11/11/2023 - 19:17:51: [SM]   [2] Line 54, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vLoadGameData
+L 11/11/2023 - 19:17:51: [SM]   [3] Line 35, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::OnPluginStart
+L 11/11/2023 - 19:17:51: [SM] Unable to load plugin "transitionzombiespawnfix.smx": Error detected in plugin startup (see error logs)
+L 11/11/2023 - 19:23:19: Error log file session closed.
+L 11/11/2023 - 23:14:59: SourceMod error session started
+L 11/11/2023 - 23:14:59: Info (map "c1m1_hotel") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231111.log")
+L 11/11/2023 - 23:14:59: [SM] Exception reported: Failed to find "CMoveableCamera::FollowTarget" signature.
+L 11/11/2023 - 23:14:59: [SM] Blaming: FollowTarget_Detour.smx
+L 11/11/2023 - 23:14:59: [SM] Call stack trace:
+L 11/11/2023 - 23:14:59: [SM]   [0] SetFailState
+L 11/11/2023 - 23:14:59: [SM]   [1] Line 61, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::SetupDetour
+L 11/11/2023 - 23:14:59: [SM]   [2] Line 44, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::OnPluginStart
+L 11/11/2023 - 23:14:59: [SM] Unable to load plugin "FollowTarget_Detour.smx": Error detected in plugin startup (see error logs)
+L 11/11/2023 - 23:15:00: [left4dhooks.smx] Failed to find signature: HasAnySurvivorLeftSafeArea
+L 11/11/2023 - 23:15:00: [left4dhooks.smx] Failed to find signature: IsTankInPlay
+L 11/11/2023 - 23:15:00: [left4dhooks.smx] Failed to find signature: GetFurthestSurvivorFlow
+L 11/11/2023 - 23:15:00: [left4dhooks.smx] Failed to find signature: GetScriptValueInt
+L 11/11/2023 - 23:15:00: [SM] Exception reported: Could not load the "CTerrorGameRules::IsRealismMode" gamedata signature.
+L 11/11/2023 - 23:15:00: [SM] Blaming: left4dhooks.smx
+L 11/11/2023 - 23:15:00: [SM] Call stack trace:
+L 11/11/2023 - 23:15:00: [SM]   [0] SetFailState
+L 11/11/2023 - 23:15:00: [SM]   [1] Line 3520, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::LoadGameData
+L 11/11/2023 - 23:15:00: [SM]   [2] Line 1446, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::OnPluginStart
+L 11/11/2023 - 23:15:00: [SM] Unable to load plugin "left4dhooks.smx": Error detected in plugin startup (see error logs)
+L 11/11/2023 - 23:15:00: [SM] Exception reported: Failed to load signature: CDirector::IsInTransition
+L 11/11/2023 - 23:15:00: [SM] Blaming: transitionzombiespawnfix.smx
+L 11/11/2023 - 23:15:00: [SM] Call stack trace:
+L 11/11/2023 - 23:15:00: [SM]   [0] SetFailState
+L 11/11/2023 - 23:15:00: [SM]   [1] Line 73, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vSetupDetours
+L 11/11/2023 - 23:15:00: [SM]   [2] Line 54, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vLoadGameData
+L 11/11/2023 - 23:15:00: [SM]   [3] Line 35, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::OnPluginStart
+L 11/11/2023 - 23:15:00: [SM] Unable to load plugin "transitionzombiespawnfix.smx": Error detected in plugin startup (see error logs)
+L 11/11/2023 - 23:21:00: Error log file session closed.
+L 11/11/2023 - 23:21:00: SourceMod error session started
+L 11/11/2023 - 23:21:00: Info (map "c11m1_greenhouse") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231111.log")
+L 11/11/2023 - 23:21:00: [SM] Unable to load plugin "l4d_reload_fix.smx": Native "L4D2_GetIntWeaponAttribute" was not found
+L 11/11/2023 - 23:28:08: Error log file session closed.

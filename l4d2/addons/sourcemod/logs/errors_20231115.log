@@ -1,0 +1,248 @@
+L 11/15/2023 - 22:04:44: SourceMod error session started
+L 11/15/2023 - 22:04:44: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:04:44: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:04:44: [SM] Exception reported: Failed to find "CMoveableCamera::FollowTarget" signature.
+L 11/15/2023 - 22:04:44: [SM] Blaming: FollowTarget_Detour.smx
+L 11/15/2023 - 22:04:44: [SM] Call stack trace:
+L 11/15/2023 - 22:04:44: [SM]   [0] SetFailState
+L 11/15/2023 - 22:04:44: [SM]   [1] Line 61, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::SetupDetour
+L 11/15/2023 - 22:04:44: [SM]   [2] Line 44, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::OnPluginStart
+L 11/15/2023 - 22:04:44: [SM] Unable to load plugin "FollowTarget_Detour.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:04:46: [left4dhooks.smx] Failed to find signature: HasAnySurvivorLeftSafeArea
+L 11/15/2023 - 22:04:46: [left4dhooks.smx] Failed to find signature: IsTankInPlay
+L 11/15/2023 - 22:04:46: [left4dhooks.smx] Failed to find signature: GetFurthestSurvivorFlow
+L 11/15/2023 - 22:04:46: [left4dhooks.smx] Failed to find signature: GetScriptValueInt
+L 11/15/2023 - 22:04:46: [SM] Exception reported: Could not load the "CTerrorGameRules::IsRealismMode" gamedata signature.
+L 11/15/2023 - 22:04:46: [SM] Blaming: left4dhooks.smx
+L 11/15/2023 - 22:04:46: [SM] Call stack trace:
+L 11/15/2023 - 22:04:46: [SM]   [0] SetFailState
+L 11/15/2023 - 22:04:46: [SM]   [1] Line 3520, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::LoadGameData
+L 11/15/2023 - 22:04:46: [SM]   [2] Line 1446, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::OnPluginStart
+L 11/15/2023 - 22:04:46: [SM] Unable to load plugin "left4dhooks.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:04:46: [SM] Exception reported: Failed to load signature: CDirector::IsInTransition
+L 11/15/2023 - 22:04:46: [SM] Blaming: transitionzombiespawnfix.smx
+L 11/15/2023 - 22:04:46: [SM] Call stack trace:
+L 11/15/2023 - 22:04:46: [SM]   [0] SetFailState
+L 11/15/2023 - 22:04:46: [SM]   [1] Line 73, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vSetupDetours
+L 11/15/2023 - 22:04:46: [SM]   [2] Line 54, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vLoadGameData
+L 11/15/2023 - 22:04:46: [SM]   [3] Line 35, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::OnPluginStart
+L 11/15/2023 - 22:04:46: [SM] Unable to load plugin "transitionzombiespawnfix.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:07:55: Error log file session closed.
+L 11/15/2023 - 22:07:55: SourceMod error session started
+L 11/15/2023 - 22:07:55: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:07:55: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:07:55: [SM] Unable to load plugin "l4d_reload_fix.smx": Native "L4D2_GetIntWeaponAttribute" was not found
+L 11/15/2023 - 22:10:07: Error log file session closed.
+L 11/15/2023 - 22:10:07: SourceMod error session started
+L 11/15/2023 - 22:10:07: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:10:07: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:12:04: Error log file session closed.
+L 11/15/2023 - 22:12:04: SourceMod error session started
+L 11/15/2023 - 22:12:04: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:12:04: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:12:43: Error log file session closed.
+L 11/15/2023 - 22:12:43: SourceMod error session started
+L 11/15/2023 - 22:12:43: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:12:43: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:13:36: Error log file session closed.
+L 11/15/2023 - 22:13:36: SourceMod error session started
+L 11/15/2023 - 22:13:36: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:13:36: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:14:52: Error log file session closed.
+L 11/15/2023 - 22:15:44: SourceMod error session started
+L 11/15/2023 - 22:15:44: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:15:44: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:15:45: [left4dhooks.smx] Failed to find signature: HasAnySurvivorLeftSafeArea
+L 11/15/2023 - 22:15:45: [left4dhooks.smx] Failed to find signature: IsTankInPlay
+L 11/15/2023 - 22:15:45: [left4dhooks.smx] Failed to find signature: GetFurthestSurvivorFlow
+L 11/15/2023 - 22:15:45: [left4dhooks.smx] Failed to find signature: GetScriptValueInt
+L 11/15/2023 - 22:15:45: [SM] Exception reported: Could not load the "CTerrorGameRules::IsRealismMode" gamedata signature.
+L 11/15/2023 - 22:15:45: [SM] Blaming: left4dhooks.smx
+L 11/15/2023 - 22:15:45: [SM] Call stack trace:
+L 11/15/2023 - 22:15:45: [SM]   [0] SetFailState
+L 11/15/2023 - 22:15:45: [SM]   [1] Line 3520, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::LoadGameData
+L 11/15/2023 - 22:15:45: [SM]   [2] Line 1446, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::OnPluginStart
+L 11/15/2023 - 22:15:45: [SM] Unable to load plugin "left4dhooks.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:16:28: Error log file session closed.
+L 11/15/2023 - 22:16:28: SourceMod error session started
+L 11/15/2023 - 22:16:28: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:16:28: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:16:59: Error log file session closed.
+L 11/15/2023 - 22:16:59: SourceMod error session started
+L 11/15/2023 - 22:16:59: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:16:59: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:17:40: Error log file session closed.
+L 11/15/2023 - 22:18:54: SourceMod error session started
+L 11/15/2023 - 22:18:54: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:18:54: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:18:55: [left4dhooks.smx] Failed to find signature: HasAnySurvivorLeftSafeArea
+L 11/15/2023 - 22:18:55: [left4dhooks.smx] Failed to find signature: IsTankInPlay
+L 11/15/2023 - 22:18:55: [left4dhooks.smx] Failed to find signature: GetFurthestSurvivorFlow
+L 11/15/2023 - 22:18:55: [left4dhooks.smx] Failed to find signature: GetScriptValueInt
+L 11/15/2023 - 22:18:55: [SM] Exception reported: Could not load the "CTerrorGameRules::IsRealismMode" gamedata signature.
+L 11/15/2023 - 22:18:55: [SM] Blaming: left4dhooks.smx
+L 11/15/2023 - 22:18:55: [SM] Call stack trace:
+L 11/15/2023 - 22:18:55: [SM]   [0] SetFailState
+L 11/15/2023 - 22:18:55: [SM]   [1] Line 3520, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::LoadGameData
+L 11/15/2023 - 22:18:55: [SM]   [2] Line 1446, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::OnPluginStart
+L 11/15/2023 - 22:18:55: [SM] Unable to load plugin "left4dhooks.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:19:58: Error log file session closed.
+L 11/15/2023 - 22:19:58: SourceMod error session started
+L 11/15/2023 - 22:19:58: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:19:58: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:20:29: Error log file session closed.
+L 11/15/2023 - 22:22:10: SourceMod error session started
+L 11/15/2023 - 22:22:10: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:22:10: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:22:10: [SM] Exception reported: Failed to find "CMoveableCamera::FollowTarget" signature.
+L 11/15/2023 - 22:22:10: [SM] Blaming: FollowTarget_Detour.smx
+L 11/15/2023 - 22:22:10: [SM] Call stack trace:
+L 11/15/2023 - 22:22:10: [SM]   [0] SetFailState
+L 11/15/2023 - 22:22:10: [SM]   [1] Line 61, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::SetupDetour
+L 11/15/2023 - 22:22:10: [SM]   [2] Line 44, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::OnPluginStart
+L 11/15/2023 - 22:22:10: [SM] Unable to load plugin "FollowTarget_Detour.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:22:11: [left4dhooks.smx] Failed to find signature: HasAnySurvivorLeftSafeArea
+L 11/15/2023 - 22:22:11: [left4dhooks.smx] Failed to find signature: IsTankInPlay
+L 11/15/2023 - 22:22:11: [left4dhooks.smx] Failed to find signature: GetFurthestSurvivorFlow
+L 11/15/2023 - 22:22:11: [left4dhooks.smx] Failed to find signature: GetScriptValueInt
+L 11/15/2023 - 22:22:11: [SM] Exception reported: Could not load the "CTerrorGameRules::IsRealismMode" gamedata signature.
+L 11/15/2023 - 22:22:11: [SM] Blaming: left4dhooks.smx
+L 11/15/2023 - 22:22:11: [SM] Call stack trace:
+L 11/15/2023 - 22:22:11: [SM]   [0] SetFailState
+L 11/15/2023 - 22:22:11: [SM]   [1] Line 3520, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::LoadGameData
+L 11/15/2023 - 22:22:11: [SM]   [2] Line 1446, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::OnPluginStart
+L 11/15/2023 - 22:22:11: [SM] Unable to load plugin "left4dhooks.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:22:12: [SM] Exception reported: Failed to load signature: CDirector::IsInTransition
+L 11/15/2023 - 22:22:12: [SM] Blaming: transitionzombiespawnfix.smx
+L 11/15/2023 - 22:22:12: [SM] Call stack trace:
+L 11/15/2023 - 22:22:12: [SM]   [0] SetFailState
+L 11/15/2023 - 22:22:12: [SM]   [1] Line 73, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vSetupDetours
+L 11/15/2023 - 22:22:12: [SM]   [2] Line 54, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vLoadGameData
+L 11/15/2023 - 22:22:12: [SM]   [3] Line 35, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::OnPluginStart
+L 11/15/2023 - 22:22:12: [SM] Unable to load plugin "transitionzombiespawnfix.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:22:45: Error log file session closed.
+L 11/15/2023 - 22:22:45: SourceMod error session started
+L 11/15/2023 - 22:22:45: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:22:45: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:22:45: [SM] Unable to load plugin "l4d_reload_fix.smx": Native "L4D2_GetIntWeaponAttribute" was not found
+L 11/15/2023 - 22:25:13: Error log file session closed.
+L 11/15/2023 - 22:25:14: SourceMod error session started
+L 11/15/2023 - 22:25:14: Info (map "c1m2_streets") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:25:14: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:35:07: Error log file session closed.
+L 11/15/2023 - 22:35:07: SourceMod error session started
+L 11/15/2023 - 22:35:07: Info (map "c2m1_highway") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:35:07: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:38:09: Error log file session closed.
+L 11/15/2023 - 22:38:59: SourceMod error session started
+L 11/15/2023 - 22:38:59: Info (map "c2m1_highway") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:38:59: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:38:59: [SM] Exception reported: Failed to find "CMoveableCamera::FollowTarget" signature.
+L 11/15/2023 - 22:38:59: [SM] Blaming: FollowTarget_Detour.smx
+L 11/15/2023 - 22:38:59: [SM] Call stack trace:
+L 11/15/2023 - 22:38:59: [SM]   [0] SetFailState
+L 11/15/2023 - 22:38:59: [SM]   [1] Line 61, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::SetupDetour
+L 11/15/2023 - 22:38:59: [SM]   [2] Line 44, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::OnPluginStart
+L 11/15/2023 - 22:38:59: [SM] Unable to load plugin "FollowTarget_Detour.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:39:01: [left4dhooks.smx] Failed to find signature: HasAnySurvivorLeftSafeArea
+L 11/15/2023 - 22:39:01: [left4dhooks.smx] Failed to find signature: IsTankInPlay
+L 11/15/2023 - 22:39:01: [left4dhooks.smx] Failed to find signature: GetFurthestSurvivorFlow
+L 11/15/2023 - 22:39:01: [left4dhooks.smx] Failed to find signature: GetScriptValueInt
+L 11/15/2023 - 22:39:01: [SM] Exception reported: Could not load the "CTerrorGameRules::IsRealismMode" gamedata signature.
+L 11/15/2023 - 22:39:01: [SM] Blaming: left4dhooks.smx
+L 11/15/2023 - 22:39:01: [SM] Call stack trace:
+L 11/15/2023 - 22:39:01: [SM]   [0] SetFailState
+L 11/15/2023 - 22:39:01: [SM]   [1] Line 3520, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::LoadGameData
+L 11/15/2023 - 22:39:01: [SM]   [2] Line 1446, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::OnPluginStart
+L 11/15/2023 - 22:39:01: [SM] Unable to load plugin "left4dhooks.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:39:01: [SM] Exception reported: Failed to load signature: CDirector::IsInTransition
+L 11/15/2023 - 22:39:01: [SM] Blaming: transitionzombiespawnfix.smx
+L 11/15/2023 - 22:39:01: [SM] Call stack trace:
+L 11/15/2023 - 22:39:01: [SM]   [0] SetFailState
+L 11/15/2023 - 22:39:01: [SM]   [1] Line 73, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vSetupDetours
+L 11/15/2023 - 22:39:01: [SM]   [2] Line 54, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vLoadGameData
+L 11/15/2023 - 22:39:01: [SM]   [3] Line 35, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::OnPluginStart
+L 11/15/2023 - 22:39:01: [SM] Unable to load plugin "transitionzombiespawnfix.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:42:36: Error log file session closed.
+L 11/15/2023 - 22:43:38: SourceMod error session started
+L 11/15/2023 - 22:43:38: Info (map "c2m1_highway") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:43:38: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:43:38: [SM] Exception reported: Failed to find "CMoveableCamera::FollowTarget" signature.
+L 11/15/2023 - 22:43:38: [SM] Blaming: FollowTarget_Detour.smx
+L 11/15/2023 - 22:43:38: [SM] Call stack trace:
+L 11/15/2023 - 22:43:38: [SM]   [0] SetFailState
+L 11/15/2023 - 22:43:38: [SM]   [1] Line 61, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::SetupDetour
+L 11/15/2023 - 22:43:38: [SM]   [2] Line 44, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::OnPluginStart
+L 11/15/2023 - 22:43:39: [SM] Unable to load plugin "FollowTarget_Detour.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:43:40: [left4dhooks.smx] Failed to find signature: HasAnySurvivorLeftSafeArea
+L 11/15/2023 - 22:43:40: [left4dhooks.smx] Failed to find signature: IsTankInPlay
+L 11/15/2023 - 22:43:40: [left4dhooks.smx] Failed to find signature: GetFurthestSurvivorFlow
+L 11/15/2023 - 22:43:40: [left4dhooks.smx] Failed to find signature: GetScriptValueInt
+L 11/15/2023 - 22:43:40: [SM] Exception reported: Could not load the "CTerrorGameRules::IsRealismMode" gamedata signature.
+L 11/15/2023 - 22:43:40: [SM] Blaming: left4dhooks.smx
+L 11/15/2023 - 22:43:40: [SM] Call stack trace:
+L 11/15/2023 - 22:43:40: [SM]   [0] SetFailState
+L 11/15/2023 - 22:43:40: [SM]   [1] Line 3520, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::LoadGameData
+L 11/15/2023 - 22:43:40: [SM]   [2] Line 1446, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::OnPluginStart
+L 11/15/2023 - 22:43:40: [SM] Unable to load plugin "left4dhooks.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:43:40: [SM] Exception reported: Failed to load signature: CDirector::IsInTransition
+L 11/15/2023 - 22:43:40: [SM] Blaming: transitionzombiespawnfix.smx
+L 11/15/2023 - 22:43:40: [SM] Call stack trace:
+L 11/15/2023 - 22:43:40: [SM]   [0] SetFailState
+L 11/15/2023 - 22:43:40: [SM]   [1] Line 73, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vSetupDetours
+L 11/15/2023 - 22:43:40: [SM]   [2] Line 54, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vLoadGameData
+L 11/15/2023 - 22:43:40: [SM]   [3] Line 35, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::OnPluginStart
+L 11/15/2023 - 22:43:40: [SM] Unable to load plugin "transitionzombiespawnfix.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 22:56:24: Error log file session closed.
+L 11/15/2023 - 22:56:24: SourceMod error session started
+L 11/15/2023 - 22:56:24: Info (map "c2m2_fairgrounds") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 22:56:24: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 22:56:24: [SM] Unable to load plugin "l4d_reload_fix.smx": Native "L4D2_GetIntWeaponAttribute" was not found
+L 11/15/2023 - 23:04:39: Error log file session closed.
+L 11/15/2023 - 23:04:39: SourceMod error session started
+L 11/15/2023 - 23:04:39: Info (map "c2m3_coaster") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 23:04:39: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 23:14:39: Error log file session closed.
+L 11/15/2023 - 23:14:40: SourceMod error session started
+L 11/15/2023 - 23:14:40: Info (map "c2m4_barns") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 23:14:40: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 23:22:07: Error log file session closed.
+L 11/15/2023 - 23:22:07: SourceMod error session started
+L 11/15/2023 - 23:22:07: Info (map "c2m5_concert") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 23:22:07: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 23:30:14: Error log file session closed.
+L 11/15/2023 - 23:34:23: SourceMod error session started
+L 11/15/2023 - 23:34:23: Info (map "c9m1_alleys") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 23:34:23: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 23:34:23: [SM] Exception reported: Failed to find "CMoveableCamera::FollowTarget" signature.
+L 11/15/2023 - 23:34:23: [SM] Blaming: FollowTarget_Detour.smx
+L 11/15/2023 - 23:34:23: [SM] Call stack trace:
+L 11/15/2023 - 23:34:23: [SM]   [0] SetFailState
+L 11/15/2023 - 23:34:23: [SM]   [1] Line 61, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::SetupDetour
+L 11/15/2023 - 23:34:23: [SM]   [2] Line 44, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::OnPluginStart
+L 11/15/2023 - 23:34:23: [SM] Unable to load plugin "FollowTarget_Detour.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 23:34:24: [left4dhooks.smx] Failed to find signature: HasAnySurvivorLeftSafeArea
+L 11/15/2023 - 23:34:24: [left4dhooks.smx] Failed to find signature: IsTankInPlay
+L 11/15/2023 - 23:34:24: [left4dhooks.smx] Failed to find signature: GetFurthestSurvivorFlow
+L 11/15/2023 - 23:34:24: [left4dhooks.smx] Failed to find signature: GetScriptValueInt
+L 11/15/2023 - 23:34:24: [SM] Exception reported: Could not load the "CTerrorGameRules::IsRealismMode" gamedata signature.
+L 11/15/2023 - 23:34:24: [SM] Blaming: left4dhooks.smx
+L 11/15/2023 - 23:34:24: [SM] Call stack trace:
+L 11/15/2023 - 23:34:24: [SM]   [0] SetFailState
+L 11/15/2023 - 23:34:24: [SM]   [1] Line 3520, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::LoadGameData
+L 11/15/2023 - 23:34:24: [SM]   [2] Line 1446, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::OnPluginStart
+L 11/15/2023 - 23:34:24: [SM] Unable to load plugin "left4dhooks.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 23:34:25: [SM] Exception reported: Failed to load signature: CDirector::IsInTransition
+L 11/15/2023 - 23:34:25: [SM] Blaming: transitionzombiespawnfix.smx
+L 11/15/2023 - 23:34:25: [SM] Call stack trace:
+L 11/15/2023 - 23:34:25: [SM]   [0] SetFailState
+L 11/15/2023 - 23:34:25: [SM]   [1] Line 73, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vSetupDetours
+L 11/15/2023 - 23:34:25: [SM]   [2] Line 54, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vLoadGameData
+L 11/15/2023 - 23:34:25: [SM]   [3] Line 35, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::OnPluginStart
+L 11/15/2023 - 23:34:25: [SM] Unable to load plugin "transitionzombiespawnfix.smx": Error detected in plugin startup (see error logs)
+L 11/15/2023 - 23:45:12: Error log file session closed.
+L 11/15/2023 - 23:45:13: SourceMod error session started
+L 11/15/2023 - 23:45:13: Info (map "c9m2_lots") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231115.log")
+L 11/15/2023 - 23:45:13: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 11/15/2023 - 23:45:13: [SM] Unable to load plugin "l4d_reload_fix.smx": Native "L4D2_GetIntWeaponAttribute" was not found
+L 11/16/2023 - 00:13:52: Error log file session closed.

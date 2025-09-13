@@ -1,0 +1,52 @@
+L 12/05/2023 - 22:35:18: SourceMod error session started
+L 12/05/2023 - 22:35:18: Info (map "bs_1_l4d2") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231205.log")
+L 12/05/2023 - 22:35:18: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 12/05/2023 - 22:35:18: [SM] Failed to load plugin "survivor_chat_select.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 12/05/2023 - 22:35:18: [SM] Exception reported: Failed to find "CMoveableCamera::FollowTarget" signature.
+L 12/05/2023 - 22:35:18: [SM] Blaming: FollowTarget_Detour.smx
+L 12/05/2023 - 22:35:18: [SM] Call stack trace:
+L 12/05/2023 - 22:35:18: [SM]   [0] SetFailState
+L 12/05/2023 - 22:35:18: [SM]   [1] Line 61, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::SetupDetour
+L 12/05/2023 - 22:35:18: [SM]   [2] Line 44, C:\Users\Administrator\Desktop\1.10\FollowTarget_Detour.sp::OnPluginStart
+L 12/05/2023 - 22:35:18: [SM] Unable to load plugin "FollowTarget_Detour.smx": Error detected in plugin startup (see error logs)
+L 12/05/2023 - 22:35:20: [left4dhooks.smx] Failed to find signature: HasAnySurvivorLeftSafeArea
+L 12/05/2023 - 22:35:20: [left4dhooks.smx] Failed to find signature: IsTankInPlay
+L 12/05/2023 - 22:35:20: [left4dhooks.smx] Failed to find signature: GetFurthestSurvivorFlow
+L 12/05/2023 - 22:35:20: [left4dhooks.smx] Failed to find signature: GetScriptValueInt
+L 12/05/2023 - 22:35:20: [SM] Exception reported: Could not load the "CTerrorGameRules::IsRealismMode" gamedata signature.
+L 12/05/2023 - 22:35:20: [SM] Blaming: left4dhooks.smx
+L 12/05/2023 - 22:35:20: [SM] Call stack trace:
+L 12/05/2023 - 22:35:20: [SM]   [0] SetFailState
+L 12/05/2023 - 22:35:20: [SM]   [1] Line 3520, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::LoadGameData
+L 12/05/2023 - 22:35:20: [SM]   [2] Line 1446, C:\Users\Administrator\Desktop\1.11\left4dhooks.sp::OnPluginStart
+L 12/05/2023 - 22:35:20: [SM] Unable to load plugin "left4dhooks.smx": Error detected in plugin startup (see error logs)
+L 12/05/2023 - 22:35:20: [SM] Exception reported: Failed to load signature: CDirector::IsInTransition
+L 12/05/2023 - 22:35:20: [SM] Blaming: transitionzombiespawnfix.smx
+L 12/05/2023 - 22:35:20: [SM] Call stack trace:
+L 12/05/2023 - 22:35:20: [SM]   [0] SetFailState
+L 12/05/2023 - 22:35:20: [SM]   [1] Line 73, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vSetupDetours
+L 12/05/2023 - 22:35:20: [SM]   [2] Line 54, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::vLoadGameData
+L 12/05/2023 - 22:35:20: [SM]   [3] Line 35, C:\Users\Administrator\Desktop\1.10\transitionzombiespawnfix.sp::OnPluginStart
+L 12/05/2023 - 22:35:20: [SM] Unable to load plugin "transitionzombiespawnfix.smx": Error detected in plugin startup (see error logs)
+L 12/05/2023 - 22:43:52: Error log file session closed.
+L 12/05/2023 - 22:43:52: SourceMod error session started
+L 12/05/2023 - 22:43:52: Info (map "bs_2_l4d2") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231205.log")
+L 12/05/2023 - 22:43:52: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 12/05/2023 - 22:43:52: [SM] Failed to load plugin "survivor_chat_select.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 12/05/2023 - 22:43:52: [SM] Unable to load plugin "l4d_reload_fix.smx": Native "L4D2_GetIntWeaponAttribute" was not found
+L 12/05/2023 - 23:18:28: Error log file session closed.
+L 12/05/2023 - 23:18:28: SourceMod error session started
+L 12/05/2023 - 23:18:28: Info (map "contra3d01") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231205.log")
+L 12/05/2023 - 23:18:28: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 12/05/2023 - 23:18:28: [SM] Failed to load plugin "survivor_chat_select.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 12/05/2023 - 23:26:42: Error log file session closed.
+L 12/05/2023 - 23:26:42: SourceMod error session started
+L 12/05/2023 - 23:26:42: Info (map "contra3d02") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231205.log")
+L 12/05/2023 - 23:26:42: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 12/05/2023 - 23:26:42: [SM] Failed to load plugin "survivor_chat_select.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 12/05/2023 - 23:44:23: Error log file session closed.
+L 12/05/2023 - 23:44:23: SourceMod error session started
+L 12/05/2023 - 23:44:23: Info (map "contra3d03") (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20231205.log")
+L 12/05/2023 - 23:44:23: [SM] Failed to load plugin "l4d_ffannounce.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 12/05/2023 - 23:44:23: [SM] Failed to load plugin "survivor_chat_select.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 12/06/2023 - 00:01:38: Error log file session closed.

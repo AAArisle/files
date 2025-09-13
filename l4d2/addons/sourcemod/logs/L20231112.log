@@ -1,0 +1,34 @@
+L 11/12/2023 - 00:15:02: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20231112.log") (Version "1.10.0.6515")
+L 11/12/2023 - 00:15:02: -------- Mapchange to c14m2_lighthouse --------
+L 11/12/2023 - 00:34:54: -------- Mapchange to c1m1_hotel --------
+L 11/12/2023 - 00:36:18: [funcommands.smx] "Arisle<217><STEAM_1:0:170600520><>" froze "Quin<218><STEAM_1:1:209209195><>"
+L 11/12/2023 - 00:36:20: [funcommands.smx] "Arisle<217><STEAM_1:0:170600520><>" froze "Quin<218><STEAM_1:1:209209195><>"
+L 11/12/2023 - 00:40:16: -------- Mapchange to c1m2_streets --------
+L 11/12/2023 - 00:51:20: -------- Mapchange to c1m3_mall --------
+L 11/12/2023 - 00:59:08: -------- Mapchange to c1m4_atrium --------
+L 11/12/2023 - 01:05:23: -------- Mapchange to c3m1_plankcountry --------
+L 11/12/2023 - 01:06:38: [funcommands.smx] "Arisle<310><STEAM_1:0:170600520><>" froze "WuShuang<312><STEAM_1:0:75564851><>"
+L 11/12/2023 - 01:06:42: [funcommands.smx] "Arisle<310><STEAM_1:0:170600520><>" froze "WuShuang<312><STEAM_1:0:75564851><>"
+L 11/12/2023 - 01:06:42: [funcommands.smx] "Arisle<310><STEAM_1:0:170600520><>" froze "WuShuang<312><STEAM_1:0:75564851><>"
+L 11/12/2023 - 01:06:43: [funcommands.smx] "Arisle<310><STEAM_1:0:170600520><>" froze "WuShuang<312><STEAM_1:0:75564851><>"
+L 11/12/2023 - 01:06:43: [funcommands.smx] "Arisle<310><STEAM_1:0:170600520><>" froze "WuShuang<312><STEAM_1:0:75564851><>"
+L 11/12/2023 - 01:06:43: [funcommands.smx] "Arisle<310><STEAM_1:0:170600520><>" froze "WuShuang<312><STEAM_1:0:75564851><>"
+L 11/12/2023 - 01:06:43: [funcommands.smx] "Arisle<310><STEAM_1:0:170600520><>" froze "WuShuang<312><STEAM_1:0:75564851><>"
+L 11/12/2023 - 01:06:43: [funcommands.smx] "Arisle<310><STEAM_1:0:170600520><>" froze "WuShuang<312><STEAM_1:0:75564851><>"
+L 11/12/2023 - 01:06:44: [funcommands.smx] "Arisle<310><STEAM_1:0:170600520><>" froze "WuShuang<312><STEAM_1:0:75564851><>"
+L 11/12/2023 - 01:06:44: [funcommands.smx] "Arisle<310><STEAM_1:0:170600520><>" froze "WuShuang<312><STEAM_1:0:75564851><>"
+L 11/12/2023 - 01:14:02: -------- Mapchange to c3m2_swamp --------
+L 11/12/2023 - 01:22:24: -------- Mapchange to c3m3_shantytown --------
+L 11/12/2023 - 01:30:10: -------- Mapchange to c3m4_plantation --------
+L 11/12/2023 - 01:42:09: Log file closed.
+L 11/12/2023 - 01:47:12: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20231112.log") (Version "1.10.0.6515")
+L 11/12/2023 - 01:47:12: [funcommands.smx] "Arisle<2><STEAM_1:0:170600520><>" set a beacon on "Arisle<2><STEAM_1:0:170600520><>"
+L 11/12/2023 - 01:47:13: [funcommands.smx] "Arisle<2><STEAM_1:0:170600520><>" removed a beacon on "Arisle<2><STEAM_1:0:170600520><>"
+L 11/12/2023 - 01:47:14: [funcommands.smx] "Arisle<2><STEAM_1:0:170600520><>" set a beacon on "Arisle<2><STEAM_1:0:170600520><>"
+L 11/12/2023 - 01:47:14: [funcommands.smx] "Arisle<2><STEAM_1:0:170600520><>" removed a beacon on "Arisle<2><STEAM_1:0:170600520><>"
+L 11/12/2023 - 01:47:37: Log file closed.
+L 11/12/2023 - 19:25:51: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20231112.log") (Version "1.10.0.6515")
+L 11/12/2023 - 19:25:51: [basecommands.smx] "Arisle<2><STEAM_1:0:170600520><>" changed map to "c1m1_hotel"
+L 11/12/2023 - 19:25:54: [SM] Changed map to "c1m1_hotel"
+L 11/12/2023 - 19:25:56: -------- Mapchange to c1m1_hotel --------
+L 11/12/2023 - 19:26:53: Log file closed.

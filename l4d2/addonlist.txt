@@ -1,0 +1,8 @@
+"AddonList"
+{
+	"8人大厅新版可单人开始.vpk"		"1"
+	"workshop\2819717120.vpk"		"1"
+	"workshop\2819659703.vpk"		"1"
+	"workshop\2819660601.vpk"		"1"
+	"workshop\2860596886.vpk"		"1"
+}
